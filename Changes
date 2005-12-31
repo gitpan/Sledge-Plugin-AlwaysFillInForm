@@ -1,4 +1,7 @@
 Revision history for Perl extension Sledge::Plugin::AlwaysFillInForm
 
+0.02  Sat Dec 31 12:27:00 JST 2005
+        test bug fixed.
+
 0.01  Thu Nov  3 15:29:34 2005
         - original version
